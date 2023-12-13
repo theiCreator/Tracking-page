@@ -6,7 +6,6 @@
 
 body {
   font-family: 'Inter', sans-serif;
-
 }
 .navigation {
   display: flex;
@@ -27,7 +26,7 @@ html{
 .ul {
   display: flex;
   align-items: center;
-  margin-right: 10rem;
+  margin-right: 10.0rem;
 }
 
 .ul li {
@@ -37,7 +36,7 @@ html{
 
 .ul li a {
   text-decoration: none;
-  color: var(--accent-colour-green, #008000);
+  color:  #008000;
   text-transform: uppercase;
 
 /* paraphy */
